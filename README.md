@@ -18,7 +18,6 @@ As a student, this repo is meant to help bridge the gap between **theory and pra
 8. **Transformers, Implicit Regularization & Double Descent**
 9. **Generative AI, Agentic AI & Reinforcement Learning (Intro)**
 10. **Privacy, Fairness & Security**
-
 N.B.: The numbers of the lab tutorials ("TP") are independent of the chapter numbers.
 Ex: Chapter 5: Trees, TP 4 (Trees)
 ---
