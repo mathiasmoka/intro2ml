@@ -1,6 +1,6 @@
 # 📘 Theoretical Foundations of Machine Learning — Practical Tutorials
 
-This repository contains **practical tutorials and coding exercises** for the course **“Theoretical Foundations of Machine Learning.”**
+This repository contains **practical tutorials and coding exercises** for the course **“Theoretical Foundations of Machine Learning”, taught at ENSAE Paris - Polytechnic Institute of Paris, by Vianney Perchet and Etienne Boursier**
 
 As a student, this repo is meant to help bridge the gap between **theory and practice** by implementing key concepts covered in lectures and experimenting with them hands-on.
 
@@ -30,9 +30,6 @@ Ex: Chapter 5: Trees, TP 4 (Trees)
 - 🧩 **Exercises** to practice concepts  
 - ⚙️ **From-scratch implementations** of key algorithms  
 - 🤖 Use of libraries like `scikit-learn`, `PyTorch`, or `NumPy`  
-
 ---
 
-## 📂 Repository Structure
-
-
+## Happy coding!
